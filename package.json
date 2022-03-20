@@ -1,0 +1,22 @@
+{
+  "name": "is-akshit",
+  "version": "1.0.0",
+  "description": "is the string akshit?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshitChugh787/my-first-npm.git"
+  },
+  "keywords": [
+    "akshit"
+  ],
+  "author": "Akshit Chugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshitChugh787/my-first-npm/issues"
+  },
+  "homepage": "https://github.com/AkshitChugh787/my-first-npm#readme"
+}
